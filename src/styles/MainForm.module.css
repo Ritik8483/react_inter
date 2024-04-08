@@ -1,0 +1,14 @@
+.mainBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.inputDesign{
+    height: 40px;
+}
+.childBox{
+    display: flex;
+    gap: 20px;
+}
